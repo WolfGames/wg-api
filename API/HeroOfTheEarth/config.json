@@ -1,0 +1,10 @@
+{
+version: "1.0 Alpha",
+update_news: "Test update!",
+online_script: "myscript.gd",
+online_script_enabled: false,
+event: false,
+event_name: "",
+event_image: "url here",
+event_script: "script url here"
+}
