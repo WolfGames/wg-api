@@ -1,5 +1,7 @@
 <big><b>WolfGamesAPI</b></big>
 <br>
+<b>2.0 Beta</b>
+<br>
 1.What is WolfGamesAPI?
 <br>
 -WolfGamesAPI is online database that WolfGames uses to include update checking etc. features to games.
