@@ -12,5 +12,5 @@
 <br>
 3.Why we use GitHub as hosting?
 <br>
--Because GitHub is best hosting for websites and databases. 
+-Because GitHub is best (in our opinion) hosting for websites and databases.  
 <br>
